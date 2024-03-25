@@ -1,0 +1,2 @@
+# huaweiSoftwareChallenge2024
+2024华为软挑赛初赛的python框架结构，目前没有完成
